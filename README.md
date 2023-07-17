@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/madhavbankeraika" target="blank"><img src="https://img.shields.io/twitter/follow/madhavbankeraika?logo=twitter&style=for-the-badge" alt="madhavbankeraika" /></a> </p>
 
-- 🔭 I’m currently working on my skills in **Java ,c++**
+- 🔭 I’m currently working on my skills in **Java ,c++,python**
 
-- 🌱 I’m currently learning **Java ,c++**
+- 🌱 I’m currently learning **Java ,c++,python**
 
 - 💬 Ask me about **Competitive Programming**
 
