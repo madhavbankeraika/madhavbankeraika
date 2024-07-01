@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/madhavbankeraika" target="blank"><img src="https://img.shields.io/twitter/follow/madhavbankeraika?logo=twitter&style=for-the-badge" alt="madhavbankeraika" /></a> </p>
 
-- 🔭 I’m currently working on my skills in **Java ,c++,python**
+- 🔭 I’m currently working on my skills in **Java ,c++,python,Tkinter,HTML,CSS,JS**
 
 - 🌱 I’m currently learning **Java ,c++,python**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bankeraikamadhav@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/madha/Downloads/Madhav%20Resume.pdf](file:///C:/Users/madha/Downloads/Madhav%20Resume.pdf)
+- 📄 Know about my experiences https://pdf.ac/31eLtT
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
