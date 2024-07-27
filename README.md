@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java ,c++,python,Tkinter,HTML,CSS,JS**
 
-- 💬 Ask me about **Competitive Programming**
+- 💬 Ask me about **Competitive Programming and CyberSecurity**
 
 - 📫 How to reach me **bankeraikamadhav@gmail.com**
 
